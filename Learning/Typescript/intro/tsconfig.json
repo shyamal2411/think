@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "strict": true,
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "removeComments": true,
+    },
+    "files":[
+        "./intro.ts"
+    ]
+}

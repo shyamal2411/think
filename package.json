@@ -1,0 +1,19 @@
+{
+  "name": "think201",
+  "version": "1.0.0",
+  "main": "intro.js",
+  "scripts": {
+    "build": "tsc",
+    "run": "npm run build && node index.js"
+  },
+  "author": "Shyamal Prajapati",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
